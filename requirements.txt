@@ -1,0 +1,9 @@
+#tensorflow[and-cuda] -- tensorflow gpu version
+tensorflow==2.13.1
+tensorflow-estimator==2.13.0
+tensorflow-intel==2.13.1
+tensorflow-io-gcs-filesystem==0.31.0
+
+#ipykernel
+ipykernel==6.29.4
+ipython==8.18.1
